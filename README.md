@@ -114,4 +114,4 @@ The dashboard provides:
 - **Generated performance report**: Developed an interactive dashboard using Streamlit to visualize model performance, facilitating data-driven model selection.
 
 ---
-*Created by [Your Name] | [GitHub Profile Link]*
+*Created by Sajal Paik | https://github.com/SajalMeta
