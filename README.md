@@ -93,10 +93,9 @@ The dashboard provides:
 - **Confusion Matrix**: (Planned) Visual breakdown of true positives vs. false positives.
 
 ### Screenshot Placeholder
-> [!NOTE]
 > *Add a screenshot here after running the app locally on your machine.*
-> `![Dashboard Screenshot](Output1.png)`
-> `![Dashboard Screenshot](Output2.png)`
+> `![Dashboard Screenshot](assets/Output1.png)`
+> `![Dashboard Screenshot](assets/Output2.png)`
 
 ---
 
