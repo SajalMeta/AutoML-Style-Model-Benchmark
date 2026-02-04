@@ -2,7 +2,7 @@
 
 > **A streamlined Machine Learning benchmarking tool aimed at automating model selection and performance evaluation.**
 
-![Project Banner](https://via.placeholder.com/1000x300?text=AutoML+Model+Comparison+Dashboard+Banner)
+![Project Banner](assets/banner.png)
 
 ## 📝 Short Summary
 This project is an automated ML pipeline that accepts a dataset, preprocesses the data, trains 5 different classifiers (Logistic Regression, KNN, Random Forest, XGBoost, MLP), and generates a comparative performance report via an interactive Streamlit dashboard.
@@ -93,8 +93,10 @@ The dashboard provides:
 - **Confusion Matrix**: (Planned) Visual breakdown of true positives vs. false positives.
 
 ### Screenshot Placeholder
-![Dashboard Screenshot](Output_1.png)(Output_2.png)
-*(Replace this with an actual screenshot of your app running)*
+> [!NOTE]
+> *Add a screenshot here after running the app locally on your machine.*
+> `![Dashboard Screenshot](Output1.png)`
+> `![Dashboard Screenshot](Output2.png)`
 
 ---
 
