@@ -93,7 +93,7 @@ The dashboard provides:
 - **Confusion Matrix**: (Planned) Visual breakdown of true positives vs. false positives.
 
 ### Screenshot Placeholder
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Streamlit+Dashboard+Screenshot)
+![Dashboard Screenshot](Output_1.png)(Output_2.png)
 *(Replace this with an actual screenshot of your app running)*
 
 ---
